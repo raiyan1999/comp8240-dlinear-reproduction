@@ -1,0 +1,10 @@
+scenario,trend_slope,daily_amp,weekly_amp,noise_std,shift_size,shift_at,n
+baseline,0.0005,3.0,1.5,0.5,0.0,0.85,17420
+noise_low,0.0005,3.0,1.5,0.25,0.0,0.85,17420
+noise_high,0.0005,3.0,1.5,2.0,0.0,0.85,17420
+noise_extreme,0.0005,3.0,1.5,4.0,0.0,0.85,17420
+no_seasonality,0.0005,0.0,0.0,0.5,0.0,0.85,17420
+weak_seasonality,0.0005,0.5,0.25,0.5,0.0,0.85,17420
+strong_trend,0.003,3.0,1.5,0.5,0.0,0.85,17420
+no_trend,0.0,3.0,1.5,0.5,0.0,0.85,17420
+level_shift,0.0005,3.0,1.5,0.5,8.0,0.85,17420

@@ -1,0 +1,4 @@
+method,mse,mae,note
+DLinear,0.7536,0.4912,"336 in / 96 out, 11 channels, 6917 test windows, single run"
+repeat-last,1.3249,,"same windows and standardisation"
+predict-train-mean,1.1707,,"same windows and standardisation"

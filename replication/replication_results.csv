@@ -1,0 +1,4 @@
+dataset,horizon,paper_mse,paper_mae,my_mse,my_mae,mse_diff_pct
+ETTh1,96,0.375,0.399,0.38414,0.40471,2.4
+Weather,96,0.176,0.237,0.17764,0.24398,1.1
+ILI,24,2.215,1.081,2.27954,1.06064,2.9
