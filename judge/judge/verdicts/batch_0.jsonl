@@ -1,0 +1,30 @@
+{"id": "strong_trend-3093-Last", "verdict": "B", "reason": "Tracks cycles and level; other is flat"}
+{"id": "baseline-2313-NLinear", "verdict": "tie", "reason": "Near-identical forecasts, indistinguishable"}
+{"id": "baseline-2113-Last", "verdict": "B", "reason": "Tracks cycles and level; other is flat"}
+{"id": "weak_seasonality-550-NLinear", "verdict": "tie", "reason": "Near-identical forecasts, indistinguishable"}
+{"id": "weak_seasonality-1227-Last", "verdict": "B", "reason": "Tracks cycles and level; other is flat"}
+{"id": "no_trend-2853-Last", "verdict": "B", "reason": "Tracks cycles and level; other is flat"}
+{"id": "baseline-2822-NLinear", "verdict": "tie", "reason": "Near-identical forecasts, indistinguishable"}
+{"id": "level_shift-3034-Last", "verdict": "A", "reason": "Tracks cycles and level; other is flat"}
+{"id": "noise_high-1325-Last", "verdict": "B", "reason": "Tracks cycles and level; other is flat"}
+{"id": "level_shift-1662-Last", "verdict": "A", "reason": "Tracks cycles and level; other is flat"}
+{"id": "noise_extreme-1584-Last", "verdict": "A", "reason": "Tracks cycles and level; other is flat"}
+{"id": "weak_seasonality-2303-Last", "verdict": "A", "reason": "Tracks cycles and level; other is flat"}
+{"id": "noise_high-511-NLinear", "verdict": "tie", "reason": "Near-identical forecasts, indistinguishable"}
+{"id": "baseline-2822-Last", "verdict": "B", "reason": "Tracks cycles and level; other is flat"}
+{"id": "strong_trend-3109-Last", "verdict": "B", "reason": "Tracks cycles and level; other is flat"}
+{"id": "noise_low-3284-Last", "verdict": "B", "reason": "Tracks cycles and level; other is flat"}
+{"id": "noise_high-511-Last", "verdict": "B", "reason": "Tracks cycles and level; other is flat"}
+{"id": "no_seasonality-1416-NLinear", "verdict": "tie", "reason": "Near-identical forecasts, indistinguishable"}
+{"id": "noise_extreme-2580-Last", "verdict": "B", "reason": "Tracks cycles and level; other is flat"}
+{"id": "no_trend-1959-NLinear", "verdict": "tie", "reason": "Near-identical forecasts, indistinguishable"}
+{"id": "noise_high-2291-Last", "verdict": "B", "reason": "Tracks cycles and level; other is flat"}
+{"id": "no_trend-3246-NLinear", "verdict": "tie", "reason": "Near-identical forecasts, indistinguishable"}
+{"id": "noise_low-900-NLinear", "verdict": "tie", "reason": "Near-identical forecasts, indistinguishable"}
+{"id": "baseline-3193-NLinear", "verdict": "tie", "reason": "Near-identical forecasts, indistinguishable"}
+{"id": "baseline-3035-Last", "verdict": "B", "reason": "Tracks cycles and level; other is flat"}
+{"id": "no_seasonality-1416-Last", "verdict": "B", "reason": "Tracks cycles and level; other is flat"}
+{"id": "no_seasonality-2758-NLinear", "verdict": "tie", "reason": "Near-identical forecasts, indistinguishable"}
+{"id": "no_trend-1147-Last", "verdict": "B", "reason": "Tracks cycles and level; other is flat"}
+{"id": "noise_extreme-2580-NLinear", "verdict": "tie", "reason": "Near-identical forecasts, indistinguishable"}
+{"id": "noise_high-1852-Last", "verdict": "B", "reason": "Tracks cycles and level; other is flat"}

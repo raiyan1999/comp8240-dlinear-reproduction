@@ -1,0 +1,30 @@
+{"id": "strong_trend-383-Last", "verdict": "A", "reason": "A tracks cycles and level; B flat line"}
+{"id": "noise_low-1680-Last", "verdict": "A", "reason": "A follows truth's cycle closely; B flat"}
+{"id": "noise_high-1325-NLinear", "verdict": "tie", "reason": "Near-identical forecasts"}
+{"id": "level_shift-3200-Last", "verdict": "A", "reason": "A captures cycles and level; B flat"}
+{"id": "no_trend-3246-Last", "verdict": "A", "reason": "A matches cycle phase; B flat"}
+{"id": "noise_high-1486-Last", "verdict": "A", "reason": "A follows cycle shape; B flat"}
+{"id": "noise_high-1486-NLinear", "verdict": "tie", "reason": "Near-identical forecasts"}
+{"id": "no_seasonality-2863-NLinear", "verdict": "tie", "reason": "Both near-flat around 2.9"}
+{"id": "strong_trend-2365-Last", "verdict": "A", "reason": "A captures cycle shape and level; B flat"}
+{"id": "noise_extreme-3281-Last", "verdict": "A", "reason": "A slightly better level and late rise than flat B"}
+{"id": "weak_seasonality-550-Last", "verdict": "A", "reason": "A near truth level; B flat and too high"}
+{"id": "noise_extreme-1922-Last", "verdict": "B", "reason": "B level near truth mean; A flat too low"}
+{"id": "strong_trend-2846-Last", "verdict": "B", "reason": "B matches cycles closely; A flat"}
+{"id": "baseline-188-Last", "verdict": "A", "reason": "A matches cycle shape; B flat"}
+{"id": "noise_low-900-Last", "verdict": "B", "reason": "B tracks truth cycle closely; A flat"}
+{"id": "level_shift-2200-Last", "verdict": "A", "reason": "A follows cycles; B flat too high"}
+{"id": "noise_extreme-3271-Last", "verdict": "B", "reason": "B level closer to truth; A flat too high"}
+{"id": "noise_low-39-Last", "verdict": "A", "reason": "A tracks truth cycles; B flat"}
+{"id": "no_trend-54-NLinear", "verdict": "tie", "reason": "Near-identical forecasts"}
+{"id": "strong_trend-3093-NLinear", "verdict": "tie", "reason": "Near-identical forecasts"}
+{"id": "weak_seasonality-2524-Last", "verdict": "A", "reason": "A follows weak cycle matching truth; B flat"}
+{"id": "noise_extreme-3281-NLinear", "verdict": "tie", "reason": "Near-identical forecasts"}
+{"id": "noise_low-3362-Last", "verdict": "B", "reason": "B tracks truth cycles; A flat"}
+{"id": "no_trend-1147-NLinear", "verdict": "tie", "reason": "Near-identical forecasts"}
+{"id": "noise_extreme-128-NLinear", "verdict": "tie", "reason": "Near-identical forecasts"}
+{"id": "baseline-762-Last", "verdict": "A", "reason": "A follows cycle shape; B flat"}
+{"id": "noise_extreme-721-NLinear", "verdict": "tie", "reason": "Near-identical forecasts"}
+{"id": "no_seasonality-2932-NLinear", "verdict": "tie", "reason": "Both near-flat around 2.93"}
+{"id": "level_shift-555-Last", "verdict": "B", "reason": "B follows truth cycles; A flat"}
+{"id": "noise_extreme-1584-NLinear", "verdict": "tie", "reason": "Near-identical forecasts"}

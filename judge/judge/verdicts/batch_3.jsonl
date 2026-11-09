@@ -1,0 +1,30 @@
+{"id": "noise_low-39-NLinear", "verdict": "tie", "reason": "Nearly identical forecasts"}
+{"id": "baseline-2625-Last", "verdict": "A", "reason": "A tracks cycles; other is flat"}
+{"id": "level_shift-3034-NLinear", "verdict": "tie", "reason": "Nearly identical forecasts"}
+{"id": "no_seasonality-1644-NLinear", "verdict": "tie", "reason": "Nearly identical forecasts"}
+{"id": "no_trend-2853-NLinear", "verdict": "tie", "reason": "Nearly identical forecasts"}
+{"id": "baseline-2313-Last", "verdict": "A", "reason": "A tracks cycles; other is flat"}
+{"id": "strong_trend-2846-NLinear", "verdict": "tie", "reason": "Nearly identical forecasts"}
+{"id": "no_seasonality-2865-NLinear", "verdict": "tie", "reason": "Nearly identical forecasts"}
+{"id": "no_seasonality-2128-NLinear", "verdict": "tie", "reason": "Nearly identical forecasts"}
+{"id": "level_shift-1285-Last", "verdict": "B", "reason": "B closer in level or shape"}
+{"id": "no_seasonality-2687-Last", "verdict": "B", "reason": "B closer in level or shape"}
+{"id": "noise_extreme-2413-NLinear", "verdict": "tie", "reason": "Nearly identical forecasts"}
+{"id": "noise_high-1508-NLinear", "verdict": "tie", "reason": "Nearly identical forecasts"}
+{"id": "noise_low-329-NLinear", "verdict": "tie", "reason": "Nearly identical forecasts"}
+{"id": "strong_trend-2351-Last", "verdict": "A", "reason": "A tracks cycles; other is flat"}
+{"id": "level_shift-1908-Last", "verdict": "A", "reason": "A tracks cycles; other is flat"}
+{"id": "noise_high-1994-Last", "verdict": "A", "reason": "A tracks cycles; other is flat"}
+{"id": "weak_seasonality-849-NLinear", "verdict": "tie", "reason": "Nearly identical forecasts"}
+{"id": "no_seasonality-2865-Last", "verdict": "tie", "reason": "Nearly identical forecasts"}
+{"id": "noise_low-1283-Last", "verdict": "A", "reason": "A tracks cycles; other is flat"}
+{"id": "noise_extreme-128-Last", "verdict": "A", "reason": "A tracks cycles; other is flat"}
+{"id": "baseline-1017-NLinear", "verdict": "tie", "reason": "Nearly identical forecasts"}
+{"id": "weak_seasonality-1831-Last", "verdict": "B", "reason": "B closer in level or shape"}
+{"id": "weak_seasonality-3217-Last", "verdict": "B", "reason": "B closer in level or shape"}
+{"id": "noise_high-1994-NLinear", "verdict": "tie", "reason": "Nearly identical forecasts"}
+{"id": "no_trend-102-Last", "verdict": "B", "reason": "B closer in level or shape"}
+{"id": "strong_trend-2469-Last", "verdict": "A", "reason": "A tracks cycles; other is flat"}
+{"id": "noise_extreme-721-Last", "verdict": "B", "reason": "B closer in level or shape"}
+{"id": "no_trend-171-NLinear", "verdict": "tie", "reason": "Nearly identical forecasts"}
+{"id": "strong_trend-2756-Last", "verdict": "B", "reason": "B closer in level or shape"}

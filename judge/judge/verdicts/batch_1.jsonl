@@ -1,0 +1,30 @@
+{"id": "baseline-3193-Last", "verdict": "B", "reason": "B tracks cycles; A flat"}
+{"id": "noise_extreme-2413-Last", "verdict": "A", "reason": "Flat mean suits noise; B's cycles uncorrelated"}
+{"id": "noise_extreme-3271-NLinear", "verdict": "tie", "reason": "Nearly identical"}
+{"id": "no_seasonality-48-NLinear", "verdict": "tie", "reason": "Nearly identical"}
+{"id": "no_seasonality-3283-NLinear", "verdict": "tie", "reason": "Nearly identical"}
+{"id": "no_seasonality-2863-Last", "verdict": "tie", "reason": "Both near mean level"}
+{"id": "weak_seasonality-849-Last", "verdict": "A", "reason": "A's level closer to truth mean than B"}
+{"id": "weak_seasonality-3217-NLinear", "verdict": "tie", "reason": "Nearly identical"}
+{"id": "no_trend-3046-Last", "verdict": "B", "reason": "B follows cycle; A flat"}
+{"id": "no_trend-1582-Last", "verdict": "A", "reason": "A captures cycle phase; B flat"}
+{"id": "baseline-2625-NLinear", "verdict": "tie", "reason": "Nearly identical"}
+{"id": "noise_high-1852-NLinear", "verdict": "tie", "reason": "Nearly identical"}
+{"id": "level_shift-2200-NLinear", "verdict": "tie", "reason": "Nearly identical"}
+{"id": "noise_low-329-Last", "verdict": "B", "reason": "B follows cycle; A flat"}
+{"id": "strong_trend-2756-NLinear", "verdict": "tie", "reason": "Nearly identical"}
+{"id": "weak_seasonality-1227-NLinear", "verdict": "tie", "reason": "Nearly identical"}
+{"id": "noise_low-837-Last", "verdict": "A", "reason": "A follows cycle; B flat"}
+{"id": "no_seasonality-2758-Last", "verdict": "B", "reason": "B level nearer truth mean than A"}
+{"id": "level_shift-1285-NLinear", "verdict": "tie", "reason": "Nearly identical"}
+{"id": "noise_low-1581-Last", "verdict": "A", "reason": "A follows cycle; B flat"}
+{"id": "baseline-2113-NLinear", "verdict": "tie", "reason": "Nearly identical"}
+{"id": "level_shift-555-NLinear", "verdict": "tie", "reason": "Nearly identical"}
+{"id": "noise_low-1581-NLinear", "verdict": "tie", "reason": "Nearly identical"}
+{"id": "no_seasonality-2128-Last", "verdict": "tie", "reason": "Both near mean level"}
+{"id": "noise_high-2046-NLinear", "verdict": "tie", "reason": "Nearly identical"}
+{"id": "noise_high-2159-NLinear", "verdict": "tie", "reason": "Nearly identical"}
+{"id": "no_trend-3046-NLinear", "verdict": "tie", "reason": "Nearly identical"}
+{"id": "strong_trend-2351-NLinear", "verdict": "tie", "reason": "Nearly identical"}
+{"id": "level_shift-726-NLinear", "verdict": "tie", "reason": "Nearly identical"}
+{"id": "weak_seasonality-1756-Last", "verdict": "B", "reason": "B tracks rising level; A flat and low"}

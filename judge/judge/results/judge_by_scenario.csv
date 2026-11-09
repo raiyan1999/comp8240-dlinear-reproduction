@@ -1,0 +1,10 @@
+scenario,n,ties,agree_MSE_nonties,agree_MSE,agree_MAE,MSE_vs_MAE
+baseline,20.0,10.0,1.0,0.5,0.5,0.8
+level_shift,20.0,9.0,1.0,0.55,0.55,0.95
+no_seasonality,20.0,14.0,1.0,0.3,0.3,0.9
+no_trend,20.0,10.0,1.0,0.5,0.5,0.9
+noise_extreme,20.0,11.0,0.778,0.35,0.35,0.95
+noise_high,20.0,10.0,1.0,0.5,0.5,1.0
+noise_low,20.0,10.0,1.0,0.5,0.5,0.95
+strong_trend,20.0,10.0,1.0,0.5,0.5,0.95
+weak_seasonality,20.0,10.0,1.0,0.5,0.5,0.9

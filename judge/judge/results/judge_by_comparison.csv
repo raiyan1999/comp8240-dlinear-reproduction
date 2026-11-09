@@ -1,0 +1,3 @@
+comparison,n,ties,agree_MSE_nonties,agree_MSE,agree_MAE,MSE_vs_MAE
+Last,90.0,5.0,0.976,0.922,0.922,0.989
+NLinear,90.0,89.0,1.0,0.011,0.011,0.856
