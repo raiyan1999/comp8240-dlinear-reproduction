@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+LTSF-Linear/
+beijing/raw/
+.DS_Store
